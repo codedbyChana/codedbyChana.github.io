@@ -1,0 +1,52 @@
+h1{
+    color:#120C01;
+    font-family: chewy;
+    font-size: 4em;
+
+}
+h2{
+    color: #000000;
+    text-align:center;
+    
+    
+}
+p{
+    font-family:'shadows into light'
+}
+
+body{
+    background-color: #F1EDE7;
+    margin-top:0px;
+    margin-right:0px;
+    margin-bottom:opx;
+    margin-left:0px;
+    
+}
+p{
+    color:#DF9723
+}
+ul{
+    padding: 10px;
+}
+li{
+    display:inline;
+    padding: 0px 10px 0px 10px;
+}
+header{
+    text-align:center;
+    background:url('https://hdwallsource.com/img/2014/7/awesome-background-images-26862-27578-hd-wallpapers.jpg');
+    background-size:cover;
+    padding: 20px 0px 0px 0px;
+    color:black;
+}
+img{
+    margin: 40px 0px 0px 0px;
+    border: 3px solid #EAE8E5;
+    
+}
+a{
+    color: #F1EDE7;
+}
+div{
+    text-align:center;
+}
